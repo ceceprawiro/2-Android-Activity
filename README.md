@@ -1,4 +1,6 @@
 # 2-Android-Activity
-2. Belajar Android - Multiple activity, passing integer dari activity A ke activity B
+Belajar Android - Multiple activity, passing integer dari activity A ke activity B
 
-Untuk berkontribusi, silahkan baca [Git workflow](https://github.com/ceceprawiro/luas/blob/master/git-workflow.md).
+Di sini terdapat dua activity yaitu MainActivity dan HasilActivity.
+
+Untuk berkontribusi, silahkan baca [Git workflow](https://github.com/ceceprawiro/2-Android-Activity/blob/master/git-workflow.md).
